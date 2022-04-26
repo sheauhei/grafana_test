@@ -1,4 +1,4 @@
-Time,Load,PV,PV-used,ESS,ESS-Positive,ESS-Nagetive,Gray
+timestamp,load,pv,pv-used,ess,ess_positive,ess_negative,gray
 1650944270,31,0,0,0,0,0,31
 1650947870,30,0,0,0,0,0,30
 1650951470,27,0,0,0,0,0,27
