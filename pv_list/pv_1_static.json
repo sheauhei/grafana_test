@@ -7,4 +7,14 @@
 	"sellChannel": "FIT", 
 	"fitPrice": 5.6,
 	"capacity": 400.0
+},
+{
+	"objectID": "B0002",
+	"objectName": "新竹高鐵站",
+	"isOurs":1, 
+	"latitude": 24.8060415,
+	"longitude": 121.0368687,
+	"sellChannel": "FIT", 
+	"fitPrice": 4.4,
+	"capacity": 1200.0
 }
