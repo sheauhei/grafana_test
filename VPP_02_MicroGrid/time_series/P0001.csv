@@ -1,4 +1,4 @@
-time,power.out.real,power.out.predicted,energy.out.real,energy.out.predicted
+timestamp,power.out.real,power.out.predicted,energy.out.real,energy.out.predicted
 2022/4/25 00:00,0,0,0,0
 2022/4/25 01:00,0,0,0,0
 2022/4/25 02:00,0,0,0,0
@@ -24,4 +24,3 @@ time,power.out.real,power.out.predicted,energy.out.real,energy.out.predicted
 2022/4/25 22:00,0,0,0,0
 2022/4/25 23:00,0,0,0,0
 2022/4/26 00:00,0,0,0,0
-    
