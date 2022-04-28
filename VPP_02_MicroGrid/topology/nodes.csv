@@ -1,6 +1,6 @@
-id,mainStat,secondaryStat,green_ratio,gray_ratio,arc__green_ratio_color,arc__gray_ratio_color
+id,mainStat,secondaryStat,greenRatio,grayRatio,arc__greenRatio_color,arc__grayRatio_color
+GRID,Grid,TP,0,1,green,gray
+L0001,Load,L0001,0.6,0.4,green,gray
+M0001,Meter,M0001,0.8,0.2,green,gray
 P0001,PV,P0001,1,0,green,gray
 E0001,ESS,E0001,1,0,green,gray
-M0001,Meter,M0001,0.8,0.2,green,gray
-L0001,Load,L0001,0.6,0.4,green,gray
-GRID,Grid,TP,0,1,green,gray
