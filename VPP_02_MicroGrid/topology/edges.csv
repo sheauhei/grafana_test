@@ -5,3 +5,4 @@ id,source,target,mainStat,secondaryStat
 4,M0001,GRID,24.2,kWh
 5,P0001,L0001,25,kWh
 6,E0001,L0001,25,kWh
+7,G0001,M0001,25,kWh
