@@ -1,4 +1,4 @@
-timestamp,power.out,power.in,power.all,energy.out,energy.in,energy.all,soc
+timestamp,power.out,power.in,power.all,energy.out,energy.in,energy.all,energy.soc
 2022/4/25 00:00,0,0,0,0,0,0,0
 2022/4/25 01:00,0,0,0,0,0,0,0
 2022/4/25 02:00,0,0,0,0,0,0,0
