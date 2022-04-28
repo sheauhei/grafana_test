@@ -1,4 +1,4 @@
-timestamp,P0001.power.out,P0001.energy.out,E0001.power.out,E0001.power.in,E0001.power.all,E0001.energy.out,E0001.energy.in,E0001.energy.all,E0001.soc,L0001.power.in,L0001.energy.in,M0001.power.in,M0001.power.out,M0001.energy.in,M0001.energy.out,GRID.power.out,GRID.energy.out,M0001.energy.out.price,M0001.energy.in.price,_t
+timestamp,P0001.power.out,P0001.energy.out,E0001.power.out,E0001.power.in,E0001.power.all,E0001.energy.out,E0001.energy.in,E0001.energy.all,E0001.energy.soc,L0001.power.in,L0001.energy.in,M0001.power.in,M0001.power.out,M0001.energy.in,M0001.energy.out,GRID.power.out,GRID.energy.out,M0001.energy.out.price,M0001.energy.in.price,_t
 2022/4/25 00:00,0,0,0,0,0,0,0,0,0,31,31,31,0,31,0,31,31,2.3,1.7,0
 2022/4/25 01:00,0,0,0,0,0,0,0,0,0,30,30,30,0,30,0,30,30,2.3,1.7,0
 2022/4/25 02:00,0,0,0,0,0,0,0,0,0,27,27,27,0,27,0,27,27,2.3,1.7,0
