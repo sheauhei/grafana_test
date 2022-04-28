@@ -1,0 +1,7 @@
+id,source,target,mainStat,secondaryStat
+1,P0001,M0001,30,kWh
+2,E0001,M0001,20,kWh
+3,M0001,L0001,20,kWh
+4,M0001,GRID,24.2,kWh
+5,P0001,L0001,25,kWh
+6,E0001,L0001,25,kWh
