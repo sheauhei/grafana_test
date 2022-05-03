@@ -1,4 +1,4 @@
-id,source,target,price,sell_channel
-F001,PV001,Grid,4.5,FIT
-F002,PV002,Grid,5.2,FIT
-F003,PV003,Grid,5.5,FIT
+id,source,target,price,sell_channel,dummy.ratio,dummy.arc__ratio_color
+F001,PV001,Grid,4.5,FIT,1,green
+F002,PV002,Grid,5.2,FIT,1,green
+F003,PV003,Grid,5.5,FIT,1,green
