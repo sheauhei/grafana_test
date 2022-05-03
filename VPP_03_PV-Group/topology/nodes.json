@@ -1,18 +1,34 @@
 [
-	{
-		"id": "GRID",
-		"type": "Grid"
-	},
-	{
-		"id": "PV001",
-		"type": "PV"
-	},
-	{
-		"id": "PV002",
-		"type": "PV"
-	},
-	{
-		"id": "PV003",
-		"type": "PV"
-	}
+    {
+        "id": "GRID",
+        "type": "Grid",
+        "dummy": {
+            "ratio": 1,
+            "arc__ratio_color": "green"
+        }
+    },
+    {
+        "id": "PV001",
+        "type": "PV",
+        "dummy": {
+            "ratio": 1,
+            "arc__ratio_color": "green"
+        }
+    },
+    {
+        "id": "PV002",
+        "type": "PV",
+        "dummy": {
+            "ratio": 1,
+            "arc__ratio_color": "green"
+        }
+    },
+    {
+        "id": "PV003",
+        "type": "PV",
+        "dummy": {
+            "ratio": 1,
+            "arc__ratio_color": "green"
+        }
+    }
 ]

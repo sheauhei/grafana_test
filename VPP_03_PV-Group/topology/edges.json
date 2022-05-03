@@ -4,32 +4,20 @@
         "source": "PV001",
         "target": "Grid",
         "price": 4.5,
-        "sell_channel": "FIT",
-        "dummy": {
-            "ratio": 1,
-            "arc__ratio_color": "green"
-        }
+        "sell_channel": "FIT"
     },
     {
         "id": "F002",
         "source": "PV002",
         "target": "Grid",
         "price": 5.2,
-        "sell_channel": "FIT",
-        "dummy": {
-            "ratio": 1,
-            "arc__ratio_color": "green"
-        }
+        "sell_channel": "FIT"
     },
     {
         "id": "F003",
         "source": "PV003",
         "target": "Grid",
         "price": 5.5,
-        "sell_channel": "FIT",
-        "dummy": {
-            "ratio": 1,
-            "arc__ratio_color": "green\n"
-        }
+        "sell_channel": "FIT\n"
     }
 ]
