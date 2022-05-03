@@ -5,12 +5,11 @@
     "latitude": 24.8060415,
     "longitude":121.0368687,
     "capacity": 600, 
-    "flow": [
+    "flow": 
         {
             "from": "PV003",
             "to": "GRID", 
             "price": 5.5, 
             "channel": "FIT"
         }
-    ]
 }
