@@ -1,0 +1,15 @@
+{
+    "ID": "PV001", 
+    "name": "微電第一站", 
+    "type": "PV",
+    "latitude": 24.8060415,
+    "longitude":121.0368687,
+    
+    "flow": [
+        {
+            "to": "GRID", 
+            "price": 4.5, 
+            "channel": "FIT"
+        }
+    ]
+}
