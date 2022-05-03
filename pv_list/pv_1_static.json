@@ -1,10 +1,1 @@
-{
-	"objectID": "B0001",
-	"objectName": "微電三辦",
-	"isOurs":1, 
-	"latitude": 24.8060415,
-	"longitude": 121.0368687,
-	"sellChannel": "FIT", 
-	"fitPrice": 5.6,
-	"capacity": 400.0
-}
+[{"objectID":"B0001","objectName":"微電三辦","isOurs":1,"latitude":24.8060415,"longitude":121.0368687,"sellChannel":"FIT","fitPrice":5.6,"capacity":400,"props":{"a":1,"b":2,"c":3}}]

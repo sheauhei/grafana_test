@@ -1,0 +1,252 @@
+[
+    {
+        "timestamp": "2022/4/25 00:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 01:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 02:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 03:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 04:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 05:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 2.5,
+        "predicted_power": 3.2,
+        "energy": 2.5,
+        "predicted_energy": 3.2,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 06:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 3.75,
+        "predicted_power": 4,
+        "energy": 3.75,
+        "predicted_energy": 4,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 07:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 7.5,
+        "predicted_power": 10.4,
+        "energy": 7.5,
+        "predicted_energy": 10.4,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 08:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 30,
+        "predicted_power": 33,
+        "energy": 30,
+        "predicted_energy": 33,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 09:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 70,
+        "predicted_power": 78,
+        "energy": 70,
+        "predicted_energy": 78,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 10:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 111.25,
+        "predicted_power": 101,
+        "energy": 111.25,
+        "predicted_energy": 101,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 11:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 126.25,
+        "predicted_power": 110,
+        "energy": 126.25,
+        "predicted_energy": 110,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 12:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 156.25,
+        "predicted_power": 145,
+        "energy": 156.25,
+        "predicted_energy": 145,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 13:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 155,
+        "predicted_power": 136,
+        "energy": 155,
+        "predicted_energy": 136,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 14:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 137.5,
+        "predicted_power": 127,
+        "energy": 137.5,
+        "predicted_energy": 127,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 15:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 115,
+        "predicted_power": 120,
+        "energy": 115,
+        "predicted_energy": 120,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 16:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 96.25,
+        "predicted_power": 111,
+        "energy": 96.25,
+        "predicted_energy": 111,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 17:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 66.25,
+        "predicted_power": 78,
+        "energy": 66.25,
+        "predicted_energy": 78,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 18:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 40,
+        "predicted_power": 52,
+        "energy": 40,
+        "predicted_energy": 52,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 19:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 15,
+        "predicted_power": 13,
+        "energy": 15,
+        "predicted_energy": 13,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 20:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 1.25,
+        "predicted_power": 0,
+        "energy": 1.25,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 21:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 22:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/25 23:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    },
+    {
+        "timestamp": "2022/4/26 00:00",
+        "from": "PV001",
+        "to": "Grid",
+        "power": 0,
+        "predicted_power": 0,
+        "energy": 0,
+        "predicted_energy": 0,
+        "price\r": 4.5
+    }
+]
