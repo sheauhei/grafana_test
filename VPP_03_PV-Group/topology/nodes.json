@@ -1,0 +1,18 @@
+[
+	{
+		"id": "GRID",
+		"type": "Grid"
+	},
+	{
+		"id": "PV001",
+		"type": "PV"
+	},
+	{
+		"id": "PV002",
+		"type": "PV"
+	},
+	{
+		"id": "PV003",
+		"type": "PV"
+	}
+]
