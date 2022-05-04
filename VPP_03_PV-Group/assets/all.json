@@ -1,5 +1,36 @@
 [
     {
+        "ID": "Grid", 
+        "name": "台電主網", 
+        "type": "GRID",
+        "edges": {
+            "F001":
+            {
+                "ID": "F001",
+                "from": "PV001",
+                "to": "Grid", 
+                "price": 4.5, 
+                "channel": "FIT"
+            },
+            "F002":
+            {
+                "ID": "F002",
+                "from": "PV002",
+                "to": "Grid", 
+                "price": 5.2, 
+                "channel": "FIT"
+            },
+            "F003": 
+            {
+                "ID": "F003",
+                "from": "PV003",
+                "to": "Grid", 
+                "price": 5.5, 
+                "channel": "FIT"
+            }
+        }  
+    },
+    {
         "ID": "PV001", 
         "name": "微電第一站", 
         "type": "PV",
@@ -11,7 +42,7 @@
             {
                 "ID": "F001",
                 "from": "PV001",
-                "to": "GRID", 
+                "to": "Grid", 
                 "price": 4.5, 
                 "channel": "FIT"
             }
@@ -29,7 +60,7 @@
             {
                 "ID": "F002",
                 "from": "PV002",
-                "to": "GRID", 
+                "to": "Grid", 
                 "price": 5.2, 
                 "channel": "FIT"
             }
@@ -47,7 +78,7 @@
             {
                 "ID": "F003",
                 "from": "PV003",
-                "to": "GRID", 
+                "to": "Grid", 
                 "price": 5.5, 
                 "channel": "FIT"
             }
