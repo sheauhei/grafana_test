@@ -1,58 +1,56 @@
-{
-    "assets": [
-        {
-            "ID": "PV001", 
-            "name": "微電第一站", 
-            "type": "PV",
-            "latitude": 24.8060415,
-            "longitude":121.0368687,
-            "capacity": 400,
-            "edges": {
-                "F001":
-                {
-                    "ID": "F001",
-                    "from": "PV001",
-                    "to": "GRID", 
-                    "price": 4.5, 
-                    "channel": "FIT"
-                }
-            }  
-        },
-        {
-            "ID": "PV002", 
-            "name": "微電第二站", 
-            "type": "PV",
-            "latitude": 24.8060415,
-            "longitude":121.0368687,
-            "capacity": 500, 
-            "edges":{
-                "F002": 
-                {
-                    "ID": "F002",
-                    "from": "PV002",
-                    "to": "GRID", 
-                    "price": 5.2, 
-                    "channel": "FIT"
-                }
+[
+    {
+        "ID": "PV001", 
+        "name": "微電第一站", 
+        "type": "PV",
+        "latitude": 24.8060415,
+        "longitude":121.0368687,
+        "capacity": 400,
+        "edges": {
+            "F001":
+            {
+                "ID": "F001",
+                "from": "PV001",
+                "to": "GRID", 
+                "price": 4.5, 
+                "channel": "FIT"
             }
-        },
-        {
-            "ID": "PV003", 
-            "name": "微電第三站", 
-            "type": "PV",
-            "latitude": 24.8060415,
-            "longitude":121.0368687,
-            "capacity": 600, 
-            "edges": {
-                "F003": 
-                {
-                    "ID": "F003",
-                    "from": "PV003",
-                    "to": "GRID", 
-                    "price": 5.5, 
-                    "channel": "FIT"
-                }
+        }  
+    },
+    {
+        "ID": "PV002", 
+        "name": "微電第二站", 
+        "type": "PV",
+        "latitude": 24.8060415,
+        "longitude":121.0368687,
+        "capacity": 500, 
+        "edges":{
+            "F002": 
+            {
+                "ID": "F002",
+                "from": "PV002",
+                "to": "GRID", 
+                "price": 5.2, 
+                "channel": "FIT"
             }
         }
-    ]
-}
+    },
+    {
+        "ID": "PV003", 
+        "name": "微電第三站", 
+        "type": "PV",
+        "latitude": 24.8060415,
+        "longitude":121.0368687,
+        "capacity": 600, 
+        "edges": {
+            "F003": 
+            {
+                "ID": "F003",
+                "from": "PV003",
+                "to": "GRID", 
+                "price": 5.5, 
+                "channel": "FIT"
+            }
+        }
+    }
+]
