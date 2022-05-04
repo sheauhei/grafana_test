@@ -5,11 +5,15 @@
     "latitude": 24.8060415,
     "longitude":121.0368687,
     "capacity": 400,
-    "flow": 
+    "edges": {
+        "F001":
         {
+            "ID": "F001",
             "from": "PV001",
             "to": "GRID", 
             "price": 4.5, 
             "channel": "FIT"
         }
+    }
+        
 }

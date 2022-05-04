@@ -7,14 +7,16 @@
             "latitude": 24.8060415,
             "longitude":121.0368687,
             "capacity": 400,
-            "flow": [
+            "edges": {
+                "F001":
                 {
+                    "ID": "F001",
                     "from": "PV001",
                     "to": "GRID", 
                     "price": 4.5, 
                     "channel": "FIT"
                 }
-            ]
+            }  
         },
         {
             "ID": "PV002", 
@@ -23,14 +25,16 @@
             "latitude": 24.8060415,
             "longitude":121.0368687,
             "capacity": 500, 
-            "flow": [
+            "edges":{
+                "F002": 
                 {
+                    "ID": "F002",
                     "from": "PV002",
                     "to": "GRID", 
                     "price": 5.2, 
                     "channel": "FIT"
                 }
-            ]
+            }
         },
         {
             "ID": "PV003", 
@@ -39,14 +43,16 @@
             "latitude": 24.8060415,
             "longitude":121.0368687,
             "capacity": 600, 
-            "flow": [
+            "edges": {
+                "F003": 
                 {
+                    "ID": "F003",
                     "from": "PV003",
                     "to": "GRID", 
                     "price": 5.5, 
                     "channel": "FIT"
                 }
-            ]
+            }
         }
     ]
 }
